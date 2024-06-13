@@ -1,0 +1,42 @@
+.home-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .welcome-text {
+    font-size: 2.5rem; /* Adjust font size as desired */
+    margin-bottom: 20px;
+  }
+  
+  .description-text {
+    font-size: 1.2rem; /* Adjust font size as desired */
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .action-button {
+    font-size: 1.2rem; /* Adjust font size as desired */
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .action-button:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+  }
+  
+  .button-link {
+    text-decoration: none;
+  }
+  
